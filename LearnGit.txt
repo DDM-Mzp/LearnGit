@@ -1,1 +1,2 @@
 It's the start of learning Git.
+Creating a new branch is quick.
